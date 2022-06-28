@@ -13,6 +13,10 @@ header {
     background-color: lightblue;
 }
 
+footer {
+    background-color: lightblue;
+}
+
 #carouselExampleControls {
     margin-left: 200pt;
     margin-right: 200pt;
@@ -47,7 +51,7 @@ p {
 }
 
 .carousel-item{
-    height: 600px;
+    height: 50rem;
     object-fit: cover;
 }
 
@@ -62,4 +66,14 @@ p {
 
 .video{
     margin-left: 400px;
+}
+
+.form {
+    margin-right: 25pt;
+    margin-left: 25pt;
+}
+
+#kontakt {
+    display: inline-block;
+    margin: 0 50px 0;
 }
