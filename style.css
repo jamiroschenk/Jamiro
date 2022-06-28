@@ -33,5 +33,14 @@ p {
     margin: 25pt;
 }
 
+.headerbild{
+    width: 100vw;
+    height: 500px;
+    object-fit: cover;
+}
 
+.gallerie-bild{
+    width: 49.8vw;
+    height: 400px;
+    margin-bottom: 25px;
 
